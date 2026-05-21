@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="fo">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portal Stream</title>
+
+  <style>
+    body {
+      margin: 0;
+      background: #111;
+      color: white;
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: auto;
+      padding: 20px;
+    }
+
+    iframe {
+      width: 100%;
+      height: 700px;
+      border: none;
+      border-radius: 12px;
+    }
+
+    h1 {
+      margin-bottom: 20px;
+    }
+
+    p {
+      color: #ccc;
+    }
+  </style>
+</head>
+
+<body>
+
+<div class="container">
+  <h1>Portal Stream</h1>
+
+  <p>Live streaming powered by Portal</p>
+
+  <iframe
+    src="HER_INDSÆTTER_DU_CASTR_EMBED_LINK"
+    allowfullscreen
+    allow="autoplay">
+  </iframe>
+
+</div>
+
+</body>
+</html>
